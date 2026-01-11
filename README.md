@@ -1,10 +1,7 @@
-# Jeddict AI Assistant
+Asistente de IA Jeddict
 
- Jeddict AI Assistant provides intelligent inline suggestions and hints within 
-the Apache NetBeans IDE, streamlining the development process. This assistant 
-aids in code generation, suggests best practices, and offers troubleshooting 
-tips, making Jeddict an invaluable tool for developers working with Jakarta EE.
+El Asistente de IA Jeddict proporciona sugerencias inteligentes en línea y pistas directamente dentro del IDE Apache NetBeans, agilizando el proceso de desarrollo. Este asistente ayuda en la generación de código, sugiere buenas prácticas y ofrece consejos para la resolución de problemas, convirtiendo a Jeddict en una herramienta invaluable para desarrolladores que trabajan con Jakarta EE.
 
-Docs: https://jeddict.github.io/page.html?l=tutorial/AI
+Documentación: https://jeddict.github.io/page.html?l=tutorial/AI
 
-Download :https://plugins.netbeans.apache.org/catalogue/?id=103
+Descarga: https://plugins.netbeans.apache.org/catalogue/?id=103
